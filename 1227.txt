@@ -1,0 +1,73 @@
+1227
+
+프리미어 
+언어바꾸기
+ko_KR
+
+미디어소스 폴더연결
+
+소스파일은 임포트로 가지고옴
+
+시퀀스: 작업대
+
+
+깃 설치하기
+git cmd
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'hi_guri@DESKTOP-OC51ECS.(none)')
+
+
+
+
+gitinit
+
+-A
+
+git commit
+
+=그룹저장소 만들기 완성
+
+git push 
+
+ㅁgit cmd 다운받기
+
+[깃 추가하기]
+git add -A
+git commit -m "설명쓰기"
+git push -u origin master
+
+참고
+(-A: 전체)
+
+
+
+ㅇ 새로운 프로젝트 들어가면 깃에 연결부터 하고 들어가야...
+ㅇ 폴더명에 공백주면 따옴표로 묶어야함.
+
+ㅇ git init : 깃 생성하기.
+ㅇ git add : 
+ㅇ git commit : 버전단위로 묶어주기
+ㅇ git remote : 
+ㅇ git push : 최종으로 올리는거
+
+dir : 폴더 안에 내용보기
+cls : 화면 정리??
+cd <--change directory
+cd 폴더명 <--- 폴더명 걸어주고 엔터.
+cd "폴 더 명" <---공백은 더블따옴표로 폴더명 묶어주기. 왠만하면 공백은 폴더명에 nono.
+cd.. <--문 열고 나옴
+d:c: 드라이브변경
+
+깃인잇 폴더가 나타나면 연결된 거임.
+
+ㅁ 커핀그루나루 깃허브 올리기
+ㅁ 커핀그루나루 메인사진 변경
+ㅁ 커핀그루나루 목업
